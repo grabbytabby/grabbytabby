@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
  npmrc <profile-name>           
                         
       cd /grabbytabbypath/to/packagejson.npm
-   mkdir my-test-package
+   mkdir grabbytabby-test-package
                                      
       
       git init git remote add origin git://git-remote-url
