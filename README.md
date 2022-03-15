@@ -17,5 +17,6 @@ You can click the Preview link to take a look at your changes.
   MusicplayerField: 'Sample hits beat field',
   musicminorField: 'This SHX-Connect field is really cool'
 }
-                                           npmrc <profile-name>           
-                         cd /grabbytabbypath/to/packagejson.npm
+ npmrc <profile-name>           
+                        
+      cd /grabbytabbypath/to/packagejson.npm
