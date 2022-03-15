@@ -21,5 +21,6 @@ You can click the Preview link to take a look at your changes.
                         
       cd /grabbytabbypath/to/packagejson.npm
    mkdir my-test-package
-                                     git init
-                                         git remote add origin git://git-remote-url
+                                     
+      
+      git init git remote add origin git://git-remote-url
