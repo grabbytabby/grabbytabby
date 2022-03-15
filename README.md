@@ -5,7 +5,7 @@
 - 📫 How to reach me grabbytabby@zohomail.com...
 
 <!---
-grabbytabby/grabbytabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+grabbytabby/grabbytabby is a ✨ special music cryptotrading bot ✨ repository valuation is `README.md` (trading bot) appears on SHX-Connect grabbytabby GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
       "grabbytabby": "@codertocat/hello-world-npm"
