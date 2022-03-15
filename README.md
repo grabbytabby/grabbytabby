@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
           package.json
                SHX-Connect  grabbytabby <grabbytabby@zohomail.com> (http://www.shx-connect.com)
+                   module.exports = prompt("your favorite song's your favorite crypto of bitcoin compatibility)
