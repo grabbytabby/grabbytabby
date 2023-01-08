@@ -11,7 +11,7 @@ grabbytabby/grabbytabby is a ✨ special music cryptotrading bot ✨
 repository valuation is `README.md` (trading bot) appears on SHX-Connect grabbytabby GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-      "grabbytabby": "@codertocat/hello-world-npm"
+      "SHX-Connect": "@codertocat/hello-world-npm"
 
           package.json
                SHX-Connect.net <shx-connect.io> (http://www.shx-connect.eth)
