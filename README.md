@@ -1,4 +1,4 @@
-                  -Cheers, I’m @grabbytabby
+                  -Cheers, I’m @SHX-Connect.eth
              - 👀 MY Guy Are You Interested in Creating One Trading Bot For a Uninvented 
              Exchange Powering Your Web3-Recording
                        - We Are Up On Solidity jsnode python c++ ...
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
       "grabbytabby": "@codertocat/hello-world-npm"
 
           package.json
-               SHX-Connect  grabbytabby <grabbytabby@zohomail.com> (http://www.shx-connect.eth)
+               SHX-Connect.net <shx-connect.io> (http://www.shx-connect.eth)
                
                
                
