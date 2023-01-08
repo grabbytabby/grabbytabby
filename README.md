@@ -2,12 +2,12 @@
              - 👀 Are You Interested Doing more for Digital Recording Artist"Globaly" in Creating 0NE-0F-A-Kind #royalty_pool
              Exchange with C2A Powering Your Web3-Recording
                        - We Develop are own Solidity Wallets.....jsnode python c++ ...
-                  - 💞️ Guess What? Its Time Up! To Make It Is ....We Keep looking to collaborate On ClockToLyric Bar2Bag
+                  - 💞️ Guess What? Its Time Up! To Make  ....We Keep looking to collaborate On ClockToLyric Bar2Bag Also SHX-Connect has
                    A Deroy(Decentralized Royalty)also arbitrage_bot not existing yet on the blockchain Crypto Music Trading_bot ...
                 - 📫 How to reach me shxconnect2407@gmail.com
 
 <!---
-grabbytabby/grabbytabby is a ✨ special music cryptotrading bot ✨ 
+Shx-connect/SHX-Connect.eth is a ✨ special music cryptotrading bot ✨ 
 repository valuation is `README.md` (trading bot) appears on SHX-Connect grabbytabby GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
