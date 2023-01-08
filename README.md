@@ -1,10 +1,10 @@
-                  -Cheers, I’m @SHX-Connect.eth
-             - 👀 MY Guy Are You Interested in Creating One Trading Bot For a Uninvented 
-             Exchange Powering Your Web3-Recording
-                       - We Are Up On Solidity jsnode python c++ ...
-                  - 💞️ Guess What Its Time To Make It....We Keep looking to collaborate
-                  A defi arbitrage not existing yet on the blockchain crypto trading bot ...
-                - 📫 How to reach me grabbytabby@zohomail.com...
+                  -Cheers, I’m a DevRep@SHX-Connect.eth
+             - 👀 Are You Interested Doing more for Digital Recording Artist"Globaly" in Creating 0NE-0F-A-Kind #royalty_pool
+             Exchange with C2A Powering Your Web3-Recording
+                       - We Develop are own Solidity Wallets.....jsnode python c++ ...
+                  - 💞️ Guess What? Its Time Up! To Make It Is ....We Keep looking to collaborate On ClockToLyric Bar2Bag
+                   A Deroy(Decentralized Royalty)also arbitrage_bot not existing yet on the blockchain Crypto Music Trading_bot ...
+                - 📫 How to reach me shxconnect2407@gmail.com
 
 <!---
 grabbytabby/grabbytabby is a ✨ special music cryptotrading bot ✨ 
